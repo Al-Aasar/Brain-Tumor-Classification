@@ -4,4 +4,5 @@ keras==2.16.0
 numpy
 opencv-python-headless
 Pillow
-gdown
+gdown==5.2.0
+filelock<4
